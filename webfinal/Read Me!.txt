@@ -1,0 +1,10 @@
+file path has to be (authors_books) because I use [localhost/author_books].
+
+you can register with your own decision.
+if you register, you have to login.
+
+if you don't want to register,
+lease use this user acc and password for login user.
+
+username: Oclis
+password: silco
